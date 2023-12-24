@@ -82,7 +82,7 @@ Então o título da página deve ficar "Amazon.com.br : Xbox Series S"
 
 E um produto da linha "Xbox Series S" deve ser mostrado na página
      Verificar o resultado da pesquisa se está listando o produto "Console Xbox Series X"
-CCB DF
+
 
 
 
